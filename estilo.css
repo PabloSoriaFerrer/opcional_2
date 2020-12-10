@@ -1,0 +1,35 @@
+h1.titulo{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: black;
+}
+
+body {
+    background-color: cadetblue;
+    color: black;
+}
+
+div.subtitulo{
+    background-color: darkcyan;
+    color: black;
+}
+
+h2{
+    background-color: darkcyan;
+    color: black;
+}
+
+h3.subsubtitulo{
+    background-color: rgb(47, 105, 160); 
+    color: white;
+}
+
+pre{
+    background-color: white;
+    color: black;
+}
+footer{
+    text-align: right;
+    color: black;
+}
